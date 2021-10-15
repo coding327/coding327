@@ -7,7 +7,6 @@
 - ⚡ Fun Fact
 
 <h3 align="left">Weclome:</h3>
-<p><a href="https://www.buymeacoffee.com/faceweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksengine" /></a></p>
-
+<a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 
