@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm black jack</h1>
 
-<!--
-**face-web/face-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @black jack
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning **HTML、CSS、 JavaScript、 Vue**
+- 📫 How to reach me **1545721718@qq.com**
+- ⚡ Fun Fact
 
-Here are some ideas to get you started:
+<h3 align="left">Weclome:</h3>
+<p><a href="https://www.buymeacoffee.com/faceweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksengine" /></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
