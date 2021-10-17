@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm black jack</h1>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
+
 <h3 > 👨🏻‍💻 关于我 </h3>
 
 - 👋 Hi, I’m @black jack
-
 - 👀 I’m interested in coding
-
 - 🌱 I’m currently learning **HTML、CSS、 JavaScript、 Vue**
-
 - ✍️ &nbsp; 我希望能多沉下心练习一些优秀的项目
-
 - 📫 How to reach me **1545721718@qq.com**
-
 - ⚡ Fun Fact
 
-  <h3 align="left">Weclome:</h3>
-  
-  <a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
+<h3>Welcome:</h3>
+
+<a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
 
 <h3>🛠 技术栈</h3>
 
@@ -61,4 +58,3 @@
  </tbody>
 </table>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
