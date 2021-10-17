@@ -17,13 +17,8 @@
   <h3 align="left">Weclome:</h3>
   
   <a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
-  
-  
-
-
 
 <h3>🛠 技术栈</h3>
-
 
 <table >
   <tbody>
@@ -63,4 +58,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
+ </tbody>
+</table>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
