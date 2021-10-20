@@ -59,7 +59,7 @@
     </tr>
  </tbody>
 </table>
-[![black jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding327)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#"><img alt="black jack's Github Stars" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact"></a>
 
 [![Readme Card](https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io)](https://github.com/coding327/coding327.github.io)
 
@@ -67,5 +67,5 @@
 
 [![Readme Card](https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=demo)](https://github.com/coding327/demo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact)](https://github.com/coding327/coding327.github.io)
+
 
