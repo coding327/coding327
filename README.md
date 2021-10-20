@@ -59,7 +59,7 @@
     </tr>
  </tbody>
 </table>
-![coding327's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding327&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding327&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io)](https://github.com/coding327/coding327.github.io)
 
