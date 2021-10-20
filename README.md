@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm black jack</h1>
+<h1 align="center">Hi 👋, I'm black jack.🌐</h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="415"   />
 
@@ -59,4 +59,13 @@
     </tr>
  </tbody>
 </table>
+![coding327's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding327&show_icons=true&theme=github_dark)
+
+[![Readme Card](https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io)](https://github.com/coding327/coding327.github.io)
+
+
+
+[![Readme Card](https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=demo)](https://github.com/coding327/demo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact)](https://github.com/coding327/coding327.github.io)
 
