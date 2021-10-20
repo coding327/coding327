@@ -15,9 +15,21 @@
 
 <h3>Welcome:</h3>
 
-<a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br><a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact"></a><br><a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io"></a>
+<a href="https://www.buymeacoffee.com/faceweb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br><a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact"></a><br>
 
 
+
+
+
+
+
+<a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io"></a>
+
+
+
+
+
+<a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=demo"></a>
 
 
 
@@ -71,5 +83,5 @@
 
 
 
-<a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=demo"></a>
+
 
