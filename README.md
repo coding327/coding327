@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm black jack.🌐</h1>
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/coding327/PicGoImg/img/20211021154759.png" width="415"   />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/coding327/PicGoImg/img/gif3.gif" width="415"   />
 
 <h3 > 👨🏻‍💻 关于我 </h3>
 
