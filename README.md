@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @black jack
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning **HTML、CSS、 JavaScript、 Vue**
+- 🌱 I’m currently learning **HTML、CSS、 JavaScript、 Vue、React**
 - ✍️ 我希望能多沉下心练习一些优秀的项目
 - 🎓 喜欢探索新技术和沉迷魔改博客
 - ☕ 路漫漫其修远兮
