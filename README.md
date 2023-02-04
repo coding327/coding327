@@ -13,16 +13,6 @@
 - 🔍 How to reach me **1545721718@qq.com**
 - ⚡ Fun Fact
 
-<h3>Welcome:</h3>
-
-<a href="https://www.buymeacoffee.com/coding327"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
-
-<a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding327&layout=compact"></a>
-
-
-
-
-
 <h3>🛠 技术栈</h3>
 
 <table >
@@ -66,8 +56,9 @@
  </tbody>
 </table>
 
+<h3>Welcome:</h3>
 
-<a href="#"><img align="left" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=demo"></a><a href="#"><img align="right" alt="black jack's Github Stars" src="https://github-readme-stat.vercel.app/api/pin/?username=coding327&repo=coding327.github.io"></a>
+<a href="https://www.buymeacoffee.com/coding327"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
 
 
 
