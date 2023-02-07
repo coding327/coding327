@@ -56,13 +56,6 @@
  </tbody>
 </table>
 
-<h3>Welcome:</h3>
+<h3>🎈 Welcome:</h3>
 
-<a href="https://www.buymeacoffee.com/coding327"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><br>
-
-
-
-
-
-
-
+<center><a href="https://www.buymeacoffee.com/coding327"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=faceweb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a></center>
