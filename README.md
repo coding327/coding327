@@ -4,7 +4,7 @@
 
 <h3 > 👨🏻‍💻 关于我 </h3>
 
-- 👋 Hi, I’m @black jack
+- 👋 Hi, I’m @lc
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning **HTML、CSS、 JavaScript、 Vue、React**
 - ✍️ 我希望能多沉下心练习一些优秀的项目
